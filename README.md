@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: data races caused by multiple mutable references to the same variable. The `bug.rs` file contains the buggy code. The `bugSolution.rs` file shows how to fix the issue using techniques like interior mutability or other concurrency control mechanisms.
